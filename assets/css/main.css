@@ -3304,7 +3304,7 @@ take precedence the ones in this file. */
 /* Banner */
 
 	#banner {
-		background-color: #3498db;
+		background-color: #ffffff;
 		color: rgba(255, 255, 255, 0.75);
 		text-align: center;
 		cursor: default;
@@ -3768,7 +3768,7 @@ take precedence the ones in this file. */
 			}
 
 			.post.style1 a {
-				color: #1abc9c;
+				color: #000000;
 			}
 
 			.post.style1 strong, .post.style1 b {
@@ -3947,7 +3947,7 @@ take precedence the ones in this file. */
 					}
 
 				.post.style1.invert .content {
-					background: #1abc9c;
+					background: #c7b39f;
 				}
 
 					.post.style1.invert .content header p {
@@ -3969,7 +3969,7 @@ take precedence the ones in this file. */
 						}
 
 				.post.style1.invert .image {
-					background-color: #1abc9c;
+					background-color: #c7b39f;
 				}
 
 		.post.style2 {
@@ -3982,11 +3982,11 @@ take precedence the ones in this file. */
 			}
 
 			.post.style2 a {
-				color: #3498db;
+				color: #000000;
 			}
 
 			.post.style2 strong, .post.style2 b {
-				color: #3498db;
+				color: #000000;
 			}
 
 			.post.style2 h1, .post.style2 h2, .post.style2 h3, .post.style2 h4, .post.style2 h5, .post.style2 h6 {
@@ -4075,7 +4075,7 @@ take precedence the ones in this file. */
 				}
 
 			.post.style2.invert {
-				background-color: #3498db;
+				background-color: #578566;
 				color: rgba(255, 255, 255, 0.75);
 			}
 
@@ -4173,11 +4173,11 @@ take precedence the ones in this file. */
 					.post.style2.invert button.special,
 					.post.style2.invert .button.special {
 						background-color: #fff;
-						color: #3498db !important;
+						color: #000000 !important;
 					}
 
 				.post.style2.invert .content {
-					background: #3498db;
+					background: #677c62;
 				}
 
 					.post.style2.invert .content header p {
@@ -4199,7 +4199,7 @@ take precedence the ones in this file. */
 						}
 
 				.post.style2.invert .image {
-					background-color: #3498db;
+					background-color: #677c62;
 				}
 
 		.post.style3 {
