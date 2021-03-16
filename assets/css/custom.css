@@ -32,7 +32,7 @@ added to the button in the index html file as well.*/
  Write your css customizations below
  *********************************************/
 
- h1, h2, h3, h4, h5, h6{
+ h1, h2, h3, h4, h5, h6, p, li, th, td, a{
    font-family: Futura;
  }
 
@@ -55,3 +55,20 @@ h1{
  h5{
    font-weight: 300;
  }
+
+ p{
+   font-weight: 200;
+ }
+
+li{
+  font-weight: 200;
+}
+
+th{
+  font-weight: 200;
+}
+
+td{
+  font-weight: 200;
+}
+
