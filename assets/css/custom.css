@@ -36,10 +36,24 @@ added to the button in the index html file as well.*/
    font-family: Futura;
  }
 
+a{
+  font-weight: 500;
+}
 
+a.logo{
+  font-weight: 300;
+}
+
+#brianna-elwell{
+  font-weight: 500;
+}
+
+h1{
+  font-weight: 500;
+}
 
  h2{
-   font-weight: 600;
+   font-weight: 500;
  }
 
  h3{
